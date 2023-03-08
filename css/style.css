@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Mrs+Saint+Delafield&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url("Components/container.css");
+@import url("Components/avatar.css");
+@import url("Components/button.css");
+@import url("Components/banner.css");
+@import url("Components/card.css");
+
+body {
+  font-family: 'Lato', sans-serif;
+  font-size: 18 px;
+  color: #154379;}
+
+h3 {
+  font-family: 'Lato', sans-serif;
+  font-size: 18 px;
+  color: #154379;}
+
+h1 {
+  font-family: 'Mrs Saint Delafield', cursive;
+  font-weight: bold;}
+
+a{
+  text-decoration: none;}
